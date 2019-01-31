@@ -11,6 +11,7 @@ text-align:justify;
 }
 
 h2 { 
+	float: center;
 font-size:22px;
 color:#6b865c;
 line-height:23px;
