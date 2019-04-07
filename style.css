@@ -1,7 +1,7 @@
 
 .picLeft {
 	margin:35px;
-	padding:55px;
+	padding:40px;
 	float:right;
 	position: relative;
 	opacity: .820;
@@ -10,20 +10,20 @@ z-index: 9999;
 }
 
 header {
-	font-size: 15px
+	font-size: 14px
 }
 
 img {
     border: 2px solid yellow;
-    padding:55px;
+    padding:14x;
 	
 }
 
 body {
-font-size: 20px;
-margin-left: 90px;
+font-size: 14px;
+margin-left: 70px;
 color:#6b865c;
-line-height:30px;
+line-height:50px;
 letter-spacing:7px;
 font-family:arial;
 text-align:justify;
@@ -33,12 +33,12 @@ text-align:justify;
 header ul { list-style-type: none; }
 
 nav {
-	font-size:41px;
-	margin-left: 40px;
+	font-size:28px;
+	margin-left: 20px;
 	list-style-type: none;
 	font-family: arial;
-	line-height: 90px;
-	float:center;
+	line-height: 72px;
+	float:left;
 	position: relative;
 		opacity: .90;
 }
