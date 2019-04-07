@@ -1,23 +1,14 @@
-h1 {
-font-size:35px;
-margin-left: 55%;
-margin-top: 7%;
-float: center;
-color:#6b865c;
-line-height:30px;
-letter-spacing:7px;
-font-family:arial;
-text-align:justify;
-}
 
-h2 { 
-	float: center;
-font-size:22px;
-color:#6b865c;
-line-height:33px;
+
+body { 
+
+float: center;
+font-size:16px;
+color:#fa72b3;
+line-height:40px;
 letter-spacing:4px;
-width: 800px;
-  padding: 20px;
+width: 600px;
+padding: 80px;
 font-family:arial;
 text-align:justify;
 }
@@ -25,17 +16,7 @@ text-align:justify;
 a {
 
 color:#fa72b3;;
-line-height:23px;
-letter-spacing:4px;
-font-family:arial;
-text-align:justify;
+\
+
 }
 
-img.center {
-display: block;
-margin-left: left;
-margin-right: center;
-}
-img {
-    border: 2px solid yellow;
-}

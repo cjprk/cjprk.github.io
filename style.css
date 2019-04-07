@@ -10,16 +10,17 @@ z-index: 9999;
 }
 
 header {
-	font-size: 18px
+	font-size: 15px
 }
 
 img {
     border: 2px solid yellow;
+    padding:55px;
 	
 }
 
 body {
-	font-size: 20px;
+font-size: 20px;
 margin-left: 90px;
 color:#6b865c;
 line-height:30px;
@@ -32,20 +33,18 @@ text-align:justify;
 header ul { list-style-type: none; }
 
 nav {
-	font-size:35px;
-	padding-top: 60px;
-	margin: 50px;
+	font-size:41px;
+	margin-left: 40px;
 	list-style-type: none;
 	font-family: arial;
-	font:20px;
 	line-height: 90px;
 	float:center;
 	position: relative;
 		opacity: .90;
 }
 
-a {
-margin-left: 235px;
+a.internal {
+margin-left: 230px;
 position: relative;
 opacity: .90;
 color:#6b865c;
