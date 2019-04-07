@@ -20,8 +20,9 @@ color:#fa72b3;;
 
 }
 
-footer { 
-  display: block;
-  font-size: 9px;
-  padding-bottom: 10px;
+img {
+	width: 500px;
+	height: 400px;
+	border: 7px solid yellow;
 }
+
