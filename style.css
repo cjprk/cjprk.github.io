@@ -21,7 +21,7 @@ img {
 
 body {
 font-size: 10px;
-margin-left: 70px;
+margin-left: 30px;
 color:#6b865c;
 line-height:30px;
 letter-spacing:7px;
@@ -33,11 +33,11 @@ text-align:justify;
 header ul { list-style-type: none; }
 
 nav {
-	font-size:28px;
+	font-size:25px;
 	margin-left: 20px;
 	list-style-type: none;
 	font-family: arial;
-	line-height: 58px;
+	line-height: 40px;
 	float:left;
 	position: relative;
 		opacity: .90;
