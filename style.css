@@ -10,7 +10,7 @@ z-index: 9999;
 }
 
 header {
-	font-size: 10px
+	font-size: 30px
 }
 
 img {
@@ -23,7 +23,7 @@ body {
 font-size: 10px;
 margin-left: 30px;
 color:#6b865c;
-line-height:30px;
+line-height:40px;
 letter-spacing:7px;
 font-family:arial;
 text-align:justify;
@@ -33,18 +33,18 @@ text-align:justify;
 header ul { list-style-type: none; }
 
 nav {
-	font-size:25px;
-	margin-left: 20px;
+	font-size:15px;
+	margin-left: 15px;
 	list-style-type: none;
 	font-family: arial;
-	line-height: 40px;
-	float:left;
+	line-height: 73px;
+	float:center;
 	position: relative;
 		opacity: .90;
 }
 
 a.internal {
-margin-left: 230px;
+margin-left: 200px;
 position: relative;
 opacity: .90;
 color:#6b865c;
