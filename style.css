@@ -23,7 +23,7 @@ body {
 font-size: 10px;
 margin-left: 70px;
 color:#6b865c;
-line-height:50px;
+line-height:30px;
 letter-spacing:7px;
 font-family:arial;
 text-align:justify;
@@ -37,7 +37,7 @@ nav {
 	margin-left: 20px;
 	list-style-type: none;
 	font-family: arial;
-	line-height: 72px;
+	line-height: 58px;
 	float:left;
 	position: relative;
 		opacity: .90;
